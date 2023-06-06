@@ -9,11 +9,13 @@
 - valid.jsonl
 - test.jsonl 
 ## 3. Train models to reproduce our results. 
- 'python run.py'
+ 
+ `python run.py`
+ 
 
  We set the hyperparameters to their default values.
 ## 4. Evaluate model
- 'python evaluator.py'
+ `python evaluator.py`
 
  Trained models are stored in **saved_models** folder.
 ## 5. Ackonwledgements
